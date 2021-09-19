@@ -1,0 +1,1 @@
+studying for ai_trading for quent investment
