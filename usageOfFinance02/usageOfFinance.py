@@ -177,7 +177,8 @@ print(df.dropna(axis=1))
 
 # nan, 무한값을 모두 가져오는 코드.
 # isin([]) : 전달받은 리스트 값이 데이터 프레임에 속해있는지 확인
-aapl_df[aapl_df.isin([np.nan, np.inf, -np.inf]).any(1)]
+print("결측치?------------------------------------------------------------------------")
+print(aapl_df[aapl_df.isin([np.nan, np.inf, -np.inf]).any(1)])
 
 # 데이터 선택 방법 - slicing, indexing, 서브셋 data 추출
 # slicing : indexing(위치정보)를 기반으로 데이터를 잘라냄.
