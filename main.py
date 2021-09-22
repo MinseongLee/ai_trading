@@ -30,3 +30,6 @@ print("------------------------\n")
 print(df.shift(1).loc['1997-01-03', 'Adj Close'])
 print("------------------------\n")
 print(df.head(2))
+
+print("------------------------\n")
+print(False and True)
