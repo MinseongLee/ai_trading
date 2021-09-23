@@ -23,3 +23,4 @@ studying for ai_trading for quent investment
    1. dual momentum strategy
       1. absolute momentum
       2. relative momentum
+      3. magic formula
