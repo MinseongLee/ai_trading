@@ -24,3 +24,5 @@ studying for ai_trading for quent investment
       1. absolute momentum
       2. relative momentum
       3. magic formula
+6. strategiesWithMachineLearning/predictStockPrices
+   1. predict stock direction
