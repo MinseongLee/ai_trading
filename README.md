@@ -26,3 +26,5 @@ studying for ai_trading for quent investment
       3. magic formula
 6. strategiesWithMachineLearning/predictStockPrices
    1. predict stock direction
+   2. k-nearest neighbor(KNN)
+   3. clustering
